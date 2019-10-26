@@ -2,7 +2,7 @@
 #include "ui_RunBatch.h"
 #include <QString>
 #include <Solution.h>
-
+//Cristani
 
 RunBatch::RunBatch(QWidget *parent) :
     QDockWidget(parent),
